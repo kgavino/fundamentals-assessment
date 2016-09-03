@@ -6,11 +6,11 @@
 
 * [ ] log the length of the array
 
-* [ ] log the 22nd value of the array
+* [ ] log the 23rd value of the array
 
-* [ ] access and reassign the 22nd value of the array to "sentences". DO NOT change line 1 of the code itself.
+* [ ] access and reassign the 23rd value of the array to "sentences". DO NOT change line 1 of the code itself.
 
-* [ ] log the 22nd value of the array again
+* [ ] log the 23rd value of the array again
 
 -
 
