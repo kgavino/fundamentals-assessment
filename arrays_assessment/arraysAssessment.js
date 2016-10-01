@@ -2,3 +2,6 @@ var myArray = [ 'I',  'am',  'currently',  'creating',  'your',  'self',  'asses
 
 //YOUR CODE HERE
 
+var func = function(){
+	//does nothing
+}

@@ -1,5 +1,7 @@
 # Objects / Arrays Fundamentals Self-Assessment
 
+#Changed readme for example's purposes
+
 ## Guidelines
 
 - You should be able to finish this self assessment in about an hour.
